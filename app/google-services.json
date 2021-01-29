@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "85107982974",
+    "project_id": "smartstick-624fe",
+    "storage_bucket": "smartstick-624fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85107982974:android:bebcedc90e9539bdbc0e2f",
+        "android_client_info": {
+          "package_name": "com.example.myapplycation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85107982974-rafu1rtouit4gfefv6s0a9hobcn27fon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtVJEDrbO3zH-HWis3fRzqhPNljjr0Y8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85107982974-rafu1rtouit4gfefv6s0a9hobcn27fon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
