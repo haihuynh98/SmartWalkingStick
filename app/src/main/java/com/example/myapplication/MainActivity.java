@@ -28,7 +28,6 @@ public class MainActivity extends Activity {
     TextView textInfo;
     TextView textContact;
     Button btnCheck;
-    Button btnGetContact;
     HidBridge hidBridge;
     ListView list;
     ArrayList<ContactPhone> mobileArray;
@@ -76,7 +75,6 @@ public class MainActivity extends Activity {
         Vibrator vibrator = (Vibrator) getSystemService(VIBRATOR_SERVICE);
 
         // Hai
-        btnGetContact = (Button) findViewById(R.id.btGetContact);
         textContact = (TextView) findViewById(R.id.tvContact);
         Button btnUpScroll = (Button) findViewById(R.id.btScrollUp);
         Button btnDownScroll = (Button) findViewById(R.id.btScrollDown);
