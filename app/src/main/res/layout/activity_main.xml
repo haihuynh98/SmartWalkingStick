@@ -20,12 +20,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 
-    <Button
-        android:id="@+id/btGetContact"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Get contact" />
-
     <TextView
         android:id="@+id/tvContact"
         android:layout_width="match_parent"
